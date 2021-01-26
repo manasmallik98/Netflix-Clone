@@ -1,0 +1,6 @@
+* {
+  margin: 0%;
+}
+.App {
+  background: linear-gradient(45deg, rgb(39, 3, 59), maroon);
+}
